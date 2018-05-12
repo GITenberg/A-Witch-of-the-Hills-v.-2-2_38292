@@ -1,0 +1,27 @@
+_repo: A-Witch-of-the-Hills-v.-2-2_38292
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38292-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warden, Florence
+    alias: James, Florence Alice Price
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '6480'
+    url: http://www.gutenberg.org/2009/agents/6480
+description: ''
+gutenberg_issued: '2011-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: A Witch of the Hills, v. 2 [of 2]
+url: http://www.gutenberg.org/ebooks/38292
